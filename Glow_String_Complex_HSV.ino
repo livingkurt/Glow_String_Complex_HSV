@@ -48,7 +48,7 @@ CRGB leds[NUM_LEDS];
 
 #define BRIGHTNESS 255
 
-#define SATURATION 100
+#define SATURATION 255
 
 TBlendType blendingType; //tBlendType is a type of value like int/char/uint8_t etc., use to choose LINERBLEND and NOBLEND
 
